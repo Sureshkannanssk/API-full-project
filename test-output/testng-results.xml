@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="5601" started-at="2022-01-17T16:15:29Z" finished-at="2022-01-17T16:15:35Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="5601" started-at="2022-01-17T16:15:29Z" finished-at="2022-01-17T16:15:35Z">
+      <class name="org.apiassured.ApiAssured">
+        <test-method status="PASS" signature="getUrl()[pri:0, instance:org.apiassured.ApiAssured@3fee9989]" name="getUrl" duration-ms="5552" started-at="2022-01-17T16:15:29Z" finished-at="2022-01-17T16:15:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getUrl -->
+      </class> <!-- org.apiassured.ApiAssured -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
